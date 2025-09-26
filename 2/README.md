@@ -71,7 +71,7 @@
 - список ошибок (отображение ошибок, указанных в ТЗ) 
 - дополнительно 1-2 экрана HMI могут быть спроектированы на усмотрение студента.
 
-Технические задания можно найти по [этой ссылке](https://docs.360.yandex.ru/docs/view?url=ya-browser%3A%2F%2F4DT1uXEPRrJRXlUFoewruNAIySz1gTNRNsR88WiT-W6yCoDCweXiuDylEtH202yagQz9nEfW2VvoJY3qesxbNgjZQ7USE0tTvmQ3coKTVsz0iigEorz0jjqIpAb7jqxxAu5bCBQpqZkgeKCDm30pPg%3D%3D%3Fsign%3D8D63Csg89nnUO7hN8tfMhbpVqe6KuUQVNKBk_8dVXBA%3D&name=%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%B2%D1%83%D1%85_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2.docx&nosw=1).
+Технические задания можно найти по [этой ссылке](https://u.netology.ru/backend/uploads/lms/content_assets/file/6102/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_%D0%B4%D0%B2%D1%83%D1%85_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2.docx).
 
 Результатом выполнения данного задания будет проект, разработанный в программе Конфигуратор СП300, соответствующий техническому заданию. 
 
