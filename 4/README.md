@@ -19,11 +19,11 @@
 
 ### Инструкция к заданию
 
-1. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/1Xj7_yWK_aZYy-l4acrME1y48uKVGcpeCP_gBhgOMJCo/edit?usp=sharing), проведите установку ПО.
-1. Откройте [проект MasterSCADA 4D](https://drive.google.com/drive/folders/1mpRXrxIKTLdCfWZxI85PLOQnNzhSY3cG?usp=sharing).
+1. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/5542/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx)., проведите установку ПО.
+1. Откройте [проект MasterSCADA 4D](https://disk.yandex.ru/d/Nx4BhcEp-R4lFw)  и  [проект ОРС-сервера](https://disk.yandex.ru/d/0Cr5Zf7pt9t9NQ).
 1. В проекте MasterSCADA создайте мнемосхему и привяжите элементы к тегам OPC-сервера согласно заданию.
 1. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
-1. Любые вопросы по решению задач задавайте в чате учебной группы.
+1. Любые вопросы по решению задач задавайте в [чате поддержки](https://netology.ru/profile?modal=support&type=new-ticket) или в разделе «Вопросы по заданию» при выполнении практических заданий.
 
 
 ------
@@ -31,9 +31,10 @@
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
 1. [Google Drive](https://www.google.com/intl/ru/drive/)
-1. [MasterSCADA 4D](https://masterscada.ru/download4)
-1. [Проект MasterSCADA 4D](https://drive.google.com/drive/folders/1mpRXrxIKTLdCfWZxI85PLOQnNzhSY3cG?usp=sharing)
-1. [Инструкция по загрузке ПО MastersSCADA 4D](https://docs.google.com/document/d/1Xj7_yWK_aZYy-l4acrME1y48uKVGcpeCP_gBhgOMJCo/edit?usp=sharingg)
+2. [MasterSCADA 4D](https://masterscada.ru/download4)
+3. [Проект MasterSCADA 4D](https://disk.yandex.ru/d/Nx4BhcEp-R4lFw)
+4. [проект ОРС-сервера](https://disk.yandex.ru/d/0Cr5Zf7pt9t9NQ)
+5. [Инструкция по загрузке ПО MastersSCADA 4D](https://u.netology.ru/backend/uploads/lms/content_assets/file/5542/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx)
 
 ------
 
