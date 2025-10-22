@@ -21,11 +21,11 @@
 
 ### Инструкция к заданию
 
-1. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/13jDH8mqTwOePICQuc0o2sfBaAQhGyeZ0rGnzL_DHZ8o/edit?usp=sharing), проведите установку ПО.
-2. Откройте [проект MasterSCADA 4D](https://drive.google.com/drive/folders/1pdDgDdZIkPE70w0o4SKfdGO_8nlLdRnm?usp=sharing).
+1. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/5830/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx), проведите установку ПО.
+2. Откройте [проект MasterSCADA 4D](https://disk.yandex.ru/d/fsv0uMbswxJSJA).
 3. Выполните задания 1, 2 и 3.
 4. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
-5. Любые вопросы по решению задач задавайте в чате учебной группы.
+5. Любые вопросы по решению задач задавайте в [чате поддержки](https://netology.ru/profile?modal=support&type=new-ticket) или в разделе «Вопросы по заданию» при выполнении практических заданий.
 
 ------
 
@@ -33,8 +33,8 @@
 
 1. [Google Drive](https://www.google.com/intl/ru/drive/).
 2. [MasterSCADA 4D](https://masterscada.ru/download4).
-3. [Проект MasterSCADA 4D](https://drive.google.com/drive/folders/1pdDgDdZIkPE70w0o4SKfdGO_8nlLdRnm?usp=sharing).
-4. [Инструкция по загрузке ПО MastersSCADA 4D](https://docs.google.com/document/d/13jDH8mqTwOePICQuc0o2sfBaAQhGyeZ0rGnzL_DHZ8o/edit?usp=sharing).
+3. [Проект MasterSCADA 4D](https://disk.yandex.ru/d/fsv0uMbswxJSJA).
+4. [Инструкция по загрузке ПО MastersSCADA 4D](https://u.netology.ru/backend/uploads/lms/content_assets/file/5830/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx).
 
 ------
 
