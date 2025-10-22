@@ -21,15 +21,15 @@
 
 ### Инструкция к заданию
 
-1. Скачайте эмулятор ПЛК [Modbus Slave](https://www.modbustools.com/download.html) согласно [инструкции](https://docs.google.com/document/d/1Ev3rud-4SiXoUY6EUMWyhdeewMtvBtPHBgpbK_1V1qQ/edit?usp=sharing), проведите установку ПО.
-2. Запустите в Modbus Slave [проекты эмулятора ПЛК](https://drive.google.com/drive/folders/1a2jHw5s4wkLTVP_iFoJua3DF8dJq5_9K?usp=sharing)
-3. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) согласно [инструкции](https://docs.google.com/document/d/1P69A5JeIwJc4tl_4unqFNwGHCM3CWj9GaNMLeXR7f3A/edit?usp=sharing), проведите установку ПО.
-4. Откройте [проект OPC-сервера](https://drive.google.com/file/d/1hPJu9z_iUcsLwL2f1EA9UmC5T7F1G1it/view?usp=sharing).
-5. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/1Va2eUNQpn054GAAnojp1zUsuOpM2ANS3i12PwRx2GbI/edit?usp=sharing), проведите установку ПО.
-6. Откройте [проект MasterSCADA 4D](https://drive.google.com/drive/folders/1d3N1wOj-qhmdJLTEQj7tsHQ5iklLMJE6?usp=sharing).
+1. Скачайте эмулятор ПЛК [Modbus Slave](https://www.modbustools.com/download.html) согласно [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/3462/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_Modbus_Slave.docx), проведите установку ПО.
+2. Запустите в Modbus Slave [проекты эмулятора ПЛК](https://disk.yandex.ru/d/myPDj5IyY3DcvA)
+3. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) согласно [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/3463/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MasterOPC.docx), проведите установку ПО.
+4. Откройте [проект OPC-сервера](https://disk.yandex.ru/d/YqPKFbJ1nzWANw).
+5. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/3465/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx), проведите установку ПО.
+6. Откройте [проект MasterSCADA 4D](https://disk.yandex.ru/d/iHSy8NW1DTGYtA).
 7. Выполните задания 1 и 2.
 8. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
-9. Любые вопросы по решению задач задавайте в чате учебной группы.
+9. Любые вопросы по решению задач задавайте в [чате поддержки](https://netology.ru/profile?modal=support&type=new-ticket) или в разделе «Вопросы по заданию» при выполнении практических заданий.
 
 ------
 
@@ -39,15 +39,16 @@
 2. Эмулятор ПЛК - Modbus Slave:
 - [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") 
 - [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
-3. [Проекты эмулятора ПЛК](https://drive.google.com/drive/folders/1a2jHw5s4wkLTVP_iFoJua3DF8dJq5_9K?usp=sharing)
+3. [Проекты эмулятора ПЛК](https://disk.yandex.ru/d/myPDj5IyY3DcvA)
 4. [MasterOPC](https://insat.ru/products/?category=1666)
-5. [Проект OPC-сервера](https://drive.google.com/file/d/1hPJu9z_iUcsLwL2f1EA9UmC5T7F1G1it/view?usp=sharing)
+5. [Проект OPC-сервера](https://disk.yandex.ru/d/YqPKFbJ1nzWANw)
 6. [MasterSCADA 4D](https://masterscada.ru/download4)
-7. [Проект MasterSCADA 4D](https://drive.google.com/drive/folders/1d3N1wOj-qhmdJLTEQj7tsHQ5iklLMJE6?usp=sharing)
+7. [Проект MasterSCADA 4D](https://disk.yandex.ru/d/iHSy8NW1DTGYtA)
 8. Инструкции:
-- [Инструкция по загрузке ПО Modbus Slave](https://docs.google.com/document/d/1Ev3rud-4SiXoUY6EUMWyhdeewMtvBtPHBgpbK_1V1qQ/edit?usp=sharing)
-- [Инструкция по загрузке ПО MasterOPC](https://docs.google.com/document/d/1P69A5JeIwJc4tl_4unqFNwGHCM3CWj9GaNMLeXR7f3A/edit?usp=sharing)
-- [Инструкция по загрузке ПО MastersSCADA 4D](https://docs.google.com/document/d/1Va2eUNQpn054GAAnojp1zUsuOpM2ANS3i12PwRx2GbI/edit?usp=sharing)
+- [Инструкция по загрузке ПО Modbus Slave](https://u.netology.ru/backend/uploads/lms/content_assets/file/3462/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_Modbus_Slave.docx)
+- [Инструкция по загрузке ПО MasterOPC](https://u.netology.ru/backend/uploads/lms/content_assets/file/3463/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MasterOPC.docx)
+- [Инструкция по загрузке ПО MastersSCADA 4D](https://u.netology.ru/backend/uploads/lms/content_assets/file/3465/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx)
+  
 ------
 
 ### Задание 1
@@ -135,7 +136,7 @@
 
 2. У пользователя «Самый главный диспетчер» есть возможность просмотра всех окон и управления всеми элементами. 
 3. У пользователя «Главный диспетчер» есть возможность просмотра всех окон и управления всеми элементами кроме элементов расположенных в окне «Станция 1».
-3. У пользователя «Диспетчер» есть возможность просмотра всех окон без возможности управления.
+4. У пользователя «Диспетчер» есть возможность просмотра всех окон без возможности управления.
 
 Работа направляется на доработку, если задание выполнено частично или не выполнено, в логике выполнения задания есть противоречия, существенные недостатки, нарушена методология.
 
