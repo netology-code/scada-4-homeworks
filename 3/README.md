@@ -23,12 +23,30 @@
 
 ### Инструкция к заданию
 
-1. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) согласно [инструкции](https://docs.google.com/document/d/1GyRE9AtVmFUKmTHmrFAUws_D4Via7dIOoihddZAo-qM/edit?usp=sharing), проведите установку ПО.
-2. В качестве эмулятора ПЛК используйте MODRSSIM (устанавливается вместе с MasterOPC) по [инструкции](https://docs.google.com/document/d/1565PULazs0y-ayGRdcB-t3gqV5X2I5JZoA7Ygz-PKe0/edit?usp=sharing)
-3. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/1lB2ACRR5TrPz_S0To14f7vAOfKgDi3dimUQFa41Zai4/edit?usp=sharing), проведите установку ПО.
+1. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) согласно [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/6297/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MasterOPC.docx), проведите установку ПО.
+2. В качестве эмулятора ПЛК используйте MODRSSIM (устанавливается вместе с MasterOPC) по [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/6298/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5_%D1%81_MODRSSIM.docx)
+3. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/6299/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx), проведите установку ПО.
 5. Выполните задания 1 и 2.
 6. Для проверки домашнего задания преподавателем отправьте ссылку на ваш проект OPC-сервера в личном кабинете.
-7. Любые вопросы по решению задач задавайте в чате учебной группы.
+7. Любые вопросы по решению задач задавайте в [чате поддержки](https://netology.ru/profile?modal=support&type=new-ticket) или в разделе «Вопросы по заданию» при выполнении практических заданий.
+
+<details>
+<summary> **ВНИМАНИЕ!**
+
+Что делать, если возникают вопросы или сложности по установке и работе с программным обеспечением? (доступно по клику)</summary>
+  
+Если у вас возникли сложности с установкой, вы можете воспользоваться ссылкой на установочный файл [MasterSCADA4D](https://disk.360.yandex.ru/d/mVmAqKczeRDwEA) 
+
+Если остались дополнительные вопросы, то:
+
+1. Напишите в чат группы или обратитесь к координатору в системе обращений студентов на сайте по [ссылке](netology.ru/profile?modal=support&type=new-ticket)
+
+2. Можете написать о своей проблеме в разделе «Вопросы и ответы» к домашнему заданию
+  
+  ![image](https://github.com/netology-code/pwin-homeworks/blob/homeworks-pae-7/5.1/Q%26A.png)
+    ---
+  
+</details>
 
 ------
 
@@ -39,9 +57,9 @@
 3. [MasterOPC](https://insat.ru/products/?category=1666)
 4. [MasterSCADA 4D](https://masterscada.ru/download4)
 5. Инструкции:
-- [Инструкция по работе с MODRSSIM](https://docs.google.com/document/d/1HTCAFomcuY7w08E1h3WBmnaBjyDqyAqewVvPGOtdmVc/edit?usp=sharing)
-- [Инструкция по загрузке ПО MasterOPC](https://docs.google.com/document/d/1GyRE9AtVmFUKmTHmrFAUws_D4Via7dIOoihddZAo-qM/edit?usp=sharing)
-- [Инструкция по загрузке ПО MastersSCADA 4D](https://docs.google.com/document/d/1lB2ACRR5TrPz_S0To14f7vAOfKgDi3dimUQFa41Zai4/edit?usp=sharing)
+- [Инструкция по работе с MODRSSIM](https://u.netology.ru/backend/uploads/lms/content_assets/file/6298/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5_%D1%81_MODRSSIM.docx)
+- [Инструкция по загрузке ПО MasterOPC](https://u.netology.ru/backend/uploads/lms/content_assets/file/6297/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MasterOPC.docx)
+- [Инструкция по загрузке ПО MastersSCADA 4D](https://u.netology.ru/backend/uploads/lms/content_assets/file/6299/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx)
 
 ------
 
