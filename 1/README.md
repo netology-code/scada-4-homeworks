@@ -9,7 +9,7 @@
 1. Закрепить полученные знания по основам SCADA
 2. Получить практические навыки по построению SCADA-систем
 3. Освоить приципы построения SCADA-систем
-4. Научиться выявлять риски в работе SCADA-систем и способы их предотвращения*
+4. Научиться выявлять риски в работе SCADA-систем и способы их предотвращения
 
 ------
 
@@ -22,16 +22,16 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Домашнего задания_SCADA-система](https://docs.google.com/presentation/d/13YsoRdDblTP6Fo5f2yYAFzp5Jb3JNh3a1-FAPviO8dY/edit?usp=sharing) и [Чеклиста к домашнему заданию](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing) себе на Google Диск.
+1. Сделайте копию [Домашнего задания_SCADA-система](https://u.netology.ru/backend/uploads/lms/content_assets/file/3460/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_SCADA-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.pptx) и [Чеклиста к домашнему заданию](https://u.netology.ru/backend/uploads/lms/content_assets/file/3461/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82_%D0%BA_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%BC%D1%83_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E.docx) себе на Google Диск.
 1. В названии файлов добавьте вашу фамилию и имя.
 1. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
-1. В шаблоне [Домашнее задание_SCADA-система](https://docs.google.com/presentation/d/13YsoRdDblTP6Fo5f2yYAFzp5Jb3JNh3a1-FAPviO8dY/edit?usp=sharing) расставьте органы управления для каждой единицы оборудования. Обозначьте связи органов управления с оборудованием.
-1. В шаблоне [Чеклист к домашнему заданию](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing): 
+1. В шаблоне [Домашнее задание_SCADA-система](https://u.netology.ru/backend/uploads/lms/content_assets/file/3460/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_SCADA-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.pptx) расставьте органы управления для каждой единицы оборудования. Обозначьте связи органов управления с оборудованием.
+1. В шаблоне [Чеклист к домашнему заданию](https://u.netology.ru/backend/uploads/lms/content_assets/file/3461/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82_%D0%BA_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%BC%D1%83_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E.docx): 
 - укажите выбранную вами архитектуру
 - укажите возможные риски при работе SCADA
 - предложите меры про предотвращеннию выявленных вами рисков.
 6. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
-7. Любые вопросы по решению задач задавайте в чате учебной группы.
+7. Любые вопросы по решению задач задавайте в [чате поддержки](https://netology.ru/profile?modal=support&type=new-ticket) или в разделе «Вопросы по заданию» при выполнении практических заданий.
 
 ------
 
@@ -44,8 +44,8 @@
 ------
 ### Шаблоны для выполнения задания
 
-1. [Домашнее задание_SCADA-система](https://docs.google.com/presentation/d/13YsoRdDblTP6Fo5f2yYAFzp5Jb3JNh3a1-FAPviO8dY/edit?usp=sharing)
-2. [Чеклист к домашнему заданию](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing)
+1. [Домашнее задание_SCADA-система](https://u.netology.ru/backend/uploads/lms/content_assets/file/3460/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_SCADA-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.pptx)
+2. [Чеклист к домашнему заданию](https://u.netology.ru/backend/uploads/lms/content_assets/file/3461/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82_%D0%BA_%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B5%D0%BC%D1%83_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E.docx)
 
 ------
 
