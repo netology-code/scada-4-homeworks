@@ -48,7 +48,7 @@
 - 5 панелей [Systeme Electric](https://systeme.ru/catalog/promishlennaya-avtomatizatsiya/sredstva-avtomatizacii/hmi) серии SystemeHMI (*управление постами*, диагональ 10,1 дюймов, наличие порта Ethernet)
 - 1 панель [ОВЕН](https://owen.ru/catalog/paneli_operatora) на выбор студента (управление установкой).
 
-Подберите необходимое оборудование, соответствующее требованиям. Заказные номера внесите в [документ на закупку](https://docs.google.com/spreadsheets/d/1Ih_-mCGzfW3cF6gGTHU2iP1vPlzDokyZxKrSygQIYl4/edit?usp=sharing), предварительно сделав его копию себе на диск.
+Подберите необходимое оборудование, соответствующее требованиям. Заказные номера внесите в [документ на закупку](https://u.netology.ru/backend/uploads/lms/content_assets/file/6100/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82_%D0%BD%D0%B0_%D0%B7%D0%B0%D0%BA%D1%83%D0%BF%D0%BA%D1%83.xlsx), предварительно сделав его копию себе на диск.
 
 
 2.* (необязательное задание) Спроектируйте схему топологии сети подобранных ранее панелей в любом удобном ПО, например [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer) или MS Visio). Также добавьте в топологию сети 3 PLC-контроллера ([ProSoft](https://www.prosoft.ru/products/plk-i-sistemy-vvoda-vyvoda/sistemy-raspredelennogo-vvoda-vyvoda-i-upravleniya-plk/), [Systeme Electric](https://systeme.ru/catalog/promishlennaya-avtomatizatsiya/sredstva-avtomatizacii/plc), [ОВЕН](https://owen.ru/catalog/programmiruemie_logicheskie_kontrolleri)). Каждый из этих контроллеров связан с системой HMI по сети Ethernet.
