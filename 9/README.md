@@ -25,9 +25,8 @@ Simatic WinCC (Windows Control Center) является системой HMI, т
   ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/Step7_1.png)
   - SIMATIC STEP 7 PLCSIM V13 SP2 for STEP 7 Basic and STEP 7 Professional (включая SHA-256 checksum)
     ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/Step7_2.png)
-2. Если у вас возникли трудности с установкой необходимого ПО, воспользуйтесь инструкцией [по ссылке](https://gitverse.ru/netology/PAE-inform/content/master/SIMATIC-instruction.md)
-3. Запустите установочный файл SIMATIC_STEP_7_Professional_V13_SP2_Upd4.exe, пройдите стандартную процедуру установки.
-4. Запустите установочный файл SIMATIC_S7_PLCSIM_V13_SP2.exe, пройдите стандартную процедуру установки.
+2. Запустите установочный файл SIMATIC_STEP_7_Professional_V13_SP2_Upd4.exe, пройдите стандартную процедуру установки.
+3. Запустите установочный файл SIMATIC_S7_PLCSIM_V13_SP2.exe, пройдите стандартную процедуру установки.
 
  **Подсказка по распаковке архиватором WinRAR:**
 
@@ -76,10 +75,11 @@ Simatic WinCC (Windows Control Center) является системой HMI, т
 <details>
   <summary> Что делать, если возникают вопросы или сложности по установке и работе с программным обеспечением? (доступно по клику)</summary>
   
-  
-1. Напишите в чат группы или обратиться к координатору в системе обращений студентов на сайте по [ссылке](netology.ru/profile?modal=support&type=new-ticket)
+1. Воспользуйтесь установочными файлами, расположенными [по ссылке](https://gitverse.ru/netology/PAE-inform/content/master/SIMATIC-instruction.md)
+   
+2. Напишите в чат группы или обратитесь к координатору в системе обращений студентов на сайте по [ссылке](netology.ru/profile?modal=support&type=new-ticket)
 
-2. Можете написать о своей проблеме в разделе «Вопросы и ответы» к домашнему заданию
+3. Можете написать о своей проблеме в разделе «Вопросы и ответы» к домашнему заданию
   
   ![image](https://github.com/netology-code/pwin-homeworks/blob/homeworks-pae-7/5.1/Q%26A.png)
     ---
