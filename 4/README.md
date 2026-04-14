@@ -28,7 +28,7 @@
 
 ### Инструкция к заданию
 
-1. Откройте [проект MasterSCADA 4D](https://disk.yandex.ru/d/Nx4BhcEp-R4lFw)  и  [проект ОРС-сервера](https://disk.yandex.ru/d/0Cr5Zf7pt9t9NQ).
+1. Откройте [проект MasterSCADA 4D](https://disk.360.yandex.ru/d/J8FQFVbtsYNguA)  и  [проект ОРС-сервера](https://disk.360.yandex.ru/d/AnZIBReHKZBE3Q).
 2. В проекте MasterSCADA создайте мнемосхему и привяжите элементы к тегам OPC-сервера согласно заданию.
 3. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
 4. Вопросы по учебным материалам курса, заданию и логике решений вы можете задать:
@@ -41,8 +41,8 @@
 
 1. [Google Drive](https://www.google.com/intl/ru/drive/)
 2. [MasterSCADA 4D](https://masterscada.ru/download4)
-3. [Проект MasterSCADA 4D](https://disk.yandex.ru/d/Nx4BhcEp-R4lFw)
-4. [проект ОРС-сервера](https://disk.yandex.ru/d/0Cr5Zf7pt9t9NQ)
+3. [Проект MasterSCADA 4D](https://disk.360.yandex.ru/d/J8FQFVbtsYNguA)
+4. [проект ОРС-сервера](https://disk.360.yandex.ru/d/AnZIBReHKZBE3Q)
 5. [Инструкция по загрузке ПО MastersSCADA 4D](https://u.netology.ru/backend/uploads/lms/content_assets/file/5542/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx)
 
 ------
