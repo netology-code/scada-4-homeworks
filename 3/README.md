@@ -25,7 +25,7 @@
 
 1. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) согласно [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/6297/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MasterOPC.docx), проведите установку ПО.
 2. В качестве эмулятора ПЛК используйте MODRSSIM (устанавливается вместе с MasterOPC) по [инструкции](https://u.netology.ru/backend/uploads/lms/content_assets/file/6298/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5_%D1%81_MODRSSIM.docx)
-3. Установите MasterSCADA 4D. Скачайте файл установки с [официального сайта](https://masterscada.ru/download4) или с [Яндекс Диска](https://disk.360.yandex.ru/d/mVmAqKczeRDwEA).
+3. Установите MasterSCADA 4D. Скачайте файл установки с [официального сайта](https://masterscada.ru/download4) или с [Яндекс Диска](https://disk.360.yandex.ru/d/ZFu88Ls-6i3Kyg).
 5. Выполните задания 1 и 2.
 6. Для проверки домашнего задания преподавателем отправьте ссылку на ваш проект OPC-сервера в личном кабинете.
 7. Вопросы по учебным материалам курса, заданию и логике решений вы можете задать:
@@ -38,7 +38,7 @@
 <summary> 
 <b>Не получается установить MasterSCADA </b> (нажмите, чтобы развернуть)</summary>
   
-Если не получается установить ПО с официального сайта, используйте на установочный файл [MasterSCADA4D](https://disk.360.yandex.ru/d/mVmAqKczeRDwEA) на Яндекс Диске.
+Если не получается установить ПО с официального сайта, используйте на установочный файл [MasterSCADA4D](https://disk.360.yandex.ru/d/ZFu88Ls-6i3Kyg) на Яндекс Диске.
 
 Если остались дополнительные вопросы, то:
 
