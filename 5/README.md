@@ -47,7 +47,7 @@
 5. [Проект MasterSCADA 4D](https://disk.yandex.ru/d/iHSy8NW1DTGYtA)
 6. Инструкции:
 - [Инструкция по загрузке ПО Modbus Slave](https://u.netology.ru/backend/uploads/lms/content_assets/file/3462/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_Modbus_Slave.docx)
-- [Инструкция по загрузке ПО MasterOPC]
+- [Инструкция по загрузке ПО MasterOPC](https://u.netology.ru/backend/uploads/lms/content_assets/file/6297/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MasterOPC.docx)
   
 ------
 
