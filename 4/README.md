@@ -40,7 +40,7 @@
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
 1. [Google Drive](https://www.google.com/intl/ru/drive/)
-2. [MasterSCADA 4D](https://masterscada.ru/download4)
+2. MasterSCADA 4D. Скачайте файл установки с [официального сайта](https://masterscada.ru/download4) или с [Яндекс Диска](https://disk.360.yandex.ru/d/ZFu88Ls-6i3Kyg).
 3. [Проект MasterSCADA 4D](https://disk.360.yandex.ru/d/J8FQFVbtsYNguA)
 4. [проект ОРС-сервера](https://disk.360.yandex.ru/d/AnZIBReHKZBE3Q)
 5. [Инструкция по загрузке ПО MastersSCADA 4D](https://u.netology.ru/backend/uploads/lms/content_assets/file/5542/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MastersSCADA_4D.docx)
