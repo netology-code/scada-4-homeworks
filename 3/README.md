@@ -58,7 +58,7 @@
 1. [Google Drive](https://www.google.com/intl/ru/drive/)
 2. Эмулятор ПЛК - MODRSSIM
 3. [MasterOPC](https://insat.ru/products/?category=1666)
-4. [MasterSCADA 4D](https://masterscada.ru/download4)
+4. MasterSCADA 4D. Скачайте файл установки с [официального сайта](https://masterscada.ru/download4) или с [Яндекс Диска](https://disk.360.yandex.ru/d/ZFu88Ls-6i3Kyg).
 5. Инструкции:
 - [Инструкция по работе с MODRSSIM](https://u.netology.ru/backend/uploads/lms/content_assets/file/6298/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B5_%D1%81_MODRSSIM.docx)
 - [Инструкция по загрузке ПО MasterOPC](https://u.netology.ru/backend/uploads/lms/content_assets/file/6297/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B5_%D0%9F%D0%9E_MasterOPC.docx)
